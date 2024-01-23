@@ -1,7 +1,6 @@
 {
   "name": "actions-learning-pathway",
   "version": "0.1.0",
-  "private": true,
   "repository": "github:teilmeier/actions-learning-pathway",
   "scripts": {
     "dev": "next dev",
